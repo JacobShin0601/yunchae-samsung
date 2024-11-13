@@ -1,7 +1,6 @@
 <hr style="height:3px; background-color:#007bff; border:none;">
 
-# Projects Conducted for Samsung C&T
-
+# Key Projects for Samsung C&T
 This document provides an overview and description of the key projects conducted for Samsung C&T. Due to the **Non-Disclosure Agreement (NDA)**, the actual code used in these projects cannot be shared. Instead, **Sample Code** based on similar research papers or concepts is provided to illustrate the approach and methodology used in each project.
 
 ---
@@ -51,8 +50,7 @@ These projects contributed to strategic decision-making for Samsung C&T and prov
 
 <hr style="height:3px; background-color:#007bff; border:none;">
 
-# Projects Conducted for Samsung C&T
-
+# Key Projects for Samsung C&T
 본 문서에 포함된 프로젝트들은 삼성물산에서 수행한 주요 프로젝트의 개요와 설명을 담고 있습니다. **Non-Disclosure Agreement (NDA)**'로 인해 실제 프로젝트에서 사용한 코드는 공개할 수 없으며, 동일한 논문이나 개념을 기반으로 한 **Sample Code**를 예시로 제공합니다. 이를 통해 프로젝트의 개념과 접근 방식을 이해하실 수 있습니다.
 
 ---
