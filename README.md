@@ -16,6 +16,9 @@ This document provides an overview and description of the key projects conducted
 - **Machine Learning Models**: Linear Regression, Random Forest, LSTM, Transformer-based models, and others.
 - **Time Series Analysis**: Time series forecasting and trend analysis.
 - **Tools**: Python, Pandas, scikit-learn, Statsmodels, PyTorch
+  
+- **Reference1(LSTM)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecast-LSTM
+- **Reference2(Transformer)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecast-Transformer
 
 ### Outcomes
 - Achieved high predictive accuracy for commodity price changes, providing valuable insights to support purchasing and investment strategies.
@@ -35,6 +38,12 @@ This document provides an overview and description of the key projects conducted
 - **Anomaly Detection**: Anomaly detection algorithms (Auto Encoder-based detection).
 - **Dynamic Time Warping (DTW)**: Used for identifying de-synchronization points for arbitrage trading opportunities between commodities.
 - **Tools**: Python, scikit-learn, PyTorch
+  
+- **Reference1(XGBoost)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecastingWithXGBoost
+- **Reference2(AutoEncoder)**: https://github.com/JacobShin0601/yunchae-samsung/blob/main/AutoEncoder_on_sagemaker/1.training_on_local.ipynb
+0 **Reference3(AutoEncoder Paper)**: https://openreview.net/attachment?id=HkgeGeBYDB&name=original_pdf
+- **Reference4(WideDeep Model)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/WideDeepModel-torch
+- **Reference5(WideDeep Model Paper)**: https://arxiv.org/abs/1606.07792 
 
 ### Outcomes
 - Delivered customized power demand forecasting and anomaly detection models to key factories of Samsung Electronics, Samsung Electro-Mechanics, and Samsung Display, enhancing energy savings and operational efficiency related to **DX (digital transformation)**.
@@ -66,6 +75,9 @@ These projects contributed to strategic decision-making for Samsung C&T and prov
 - **Machine Learning Models**: Linear Regression, Random Forest, LSTM, Transformer 기반 모델 등
 - **Time Series Analysis**: 시계열 예측 및 트렌드 분석
 - **Tools**: Python, Pandas, scikit-learn, Statsmodels, PyTorch
+  
+- **Reference1(LSTM)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecast-LSTM
+- **Reference2(Transformer)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecast-Transformer
 
 ### 성과
 - 주요 원자재 가격 변화에 대한 높은 예측 정확도를 달성하여, 관련 부서의 구매 및 투자 전략에 중요한 인사이트 제공.
@@ -84,7 +96,14 @@ These projects contributed to strategic decision-making for Samsung C&T and prov
 - **Forecasting Models**: 시계열 예측 모델 (SARIMAX, XGBoost)
 - **Anomaly Detection**: 이상 탐지 알고리즘 (Auto Encoder 기반 탐지)
 - **Dynamic Time Warping (DTW)**: 원자재 간 아비트라지 매매 기회를 위한 비동기화 시점 탐색
+- **Recomender System**: Samsung.com's mobile phone & accessory recommendation system
 - **Tools**: Python, scikit-learn, PyTorch
+  
+- **Reference1(XGBoost)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecastingWithXGBoost
+- **Reference2(AutoEncoder)**: https://github.com/JacobShin0601/yunchae-samsung/blob/main/AutoEncoder_on_sagemaker/1.training_on_local.ipynb
+0 **Reference3(AutoEncoder Paper)**: https://openreview.net/attachment?id=HkgeGeBYDB&name=original_pdf
+- **Reference4(WideDeep Model)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/WideDeepModel-torch
+- **Reference5(WideDeep Model Paper)**: https://arxiv.org/abs/1606.07792 
 
 ### 성과
 - 삼성전자, 삼성전기, 삼성디스플레이의 주요 공장에서 맞춤형 전력 수요 예측과 이상 탐지 모델을 제공하여, **DX (digital transformation)**'과 관련된 에너지 절감 및 운영 효율성 향상.
