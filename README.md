@@ -16,7 +16,8 @@ This document provides an overview and description of the key projects conducted
 - **Machine Learning Models**: Linear Regression, Random Forest, LSTM, Transformer-based models, and others.
 - **Time Series Analysis**: Time series forecasting and trend analysis.
 - **Tools**: Python, Pandas, scikit-learn, Statsmodels, PyTorch
-  
+
+### Reference 
 - **Reference1(LSTM)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecast-LSTM
 - **Reference2(Transformer)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecast-Transformer
 
@@ -39,6 +40,7 @@ This document provides an overview and description of the key projects conducted
 - **Dynamic Time Warping (DTW)**: Used for identifying de-synchronization points for arbitrage trading opportunities between commodities.
 - **Tools**: Python, scikit-learn, PyTorch
   
+### Reference
 - **Reference1(XGBoost)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecastingWithXGBoost
 - **Reference2(AutoEncoder)**: https://github.com/JacobShin0601/yunchae-samsung/blob/main/AutoEncoder_on_sagemaker/1.training_on_local.ipynb
 0 **Reference3(AutoEncoder Paper)**: https://openreview.net/attachment?id=HkgeGeBYDB&name=original_pdf
@@ -76,6 +78,7 @@ These projects contributed to strategic decision-making for Samsung C&T and prov
 - **Time Series Analysis**: 시계열 예측 및 트렌드 분석
 - **Tools**: Python, Pandas, scikit-learn, Statsmodels, PyTorch
   
+### Reference
 - **Reference1(LSTM)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecast-LSTM
 - **Reference2(Transformer)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecast-Transformer
 
@@ -98,10 +101,11 @@ These projects contributed to strategic decision-making for Samsung C&T and prov
 - **Dynamic Time Warping (DTW)**: 원자재 간 아비트라지 매매 기회를 위한 비동기화 시점 탐색
 - **Recomender System**: Samsung.com's mobile phone & accessory recommendation system
 - **Tools**: Python, scikit-learn, PyTorch
-  
+
+### Reference 
 - **Reference1(XGBoost)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecastingWithXGBoost
 - **Reference2(AutoEncoder)**: https://github.com/JacobShin0601/yunchae-samsung/blob/main/AutoEncoder_on_sagemaker/1.training_on_local.ipynb
-0 **Reference3(AutoEncoder Paper)**: https://openreview.net/attachment?id=HkgeGeBYDB&name=original_pdf
+- **Reference3(AutoEncoder Paper)**: https://openreview.net/attachment?id=HkgeGeBYDB&name=original_pdf
 - **Reference4(WideDeep Model)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/WideDeepModel-torch
 - **Reference5(WideDeep Model Paper)**: https://arxiv.org/abs/1606.07792 
 
