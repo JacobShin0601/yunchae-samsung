@@ -43,7 +43,7 @@ This document provides an overview and description of the key projects conducted
 ### Reference
 - **Reference1(XGBoost)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/TimeSeriesForecastingWithXGBoost
 - **Reference2(AutoEncoder)**: https://github.com/JacobShin0601/yunchae-samsung/blob/main/AutoEncoder_on_sagemaker/1.training_on_local.ipynb
-0 **Reference3(AutoEncoder Paper)**: https://openreview.net/attachment?id=HkgeGeBYDB&name=original_pdf
+- **Reference3(AutoEncoder Paper)**: https://openreview.net/attachment?id=HkgeGeBYDB&name=original_pdf
 - **Reference4(WideDeep Model)**: https://github.com/JacobShin0601/yunchae-samsung/tree/main/WideDeepModel-torch
 - **Reference5(WideDeep Model Paper)**: https://arxiv.org/abs/1606.07792 
 
@@ -93,7 +93,7 @@ These projects contributed to strategic decision-making for Samsung C&T and prov
 ### 프로젝트 설명
 - **목표**: 삼성 계열사(삼성전자, 삼성전기, 삼성디스플레이 등)의 베트남 공장에서 **Digital Transformation (DX)**'을 지원하고, 사업 의사결정에 필요한 주요 데이터를 예측하여 경영 효율성을 높임.
 - **분석 대상**: 전력 수요 및 에너지 관리 데이터, 공장 운영 데이터, 원자재 간 아비트라지 기회를 찾기 위한 시계열 데이터 등.
-- **역할**: 전력 수요 예측 및 이상 탐지 모델 개발을 통해 효율적인 에너지 사용을 지원하고, 원자재 간 아비트라지 매매에 필요한 **비동기화(de-synchronization) 시점을 찾기 위해 Dynamic Time Warping (DTW)**을 활용.
+- **역할**: 전력 수요 예측 및 이상 탐지 모델 개발을 통해 효율적인 에너지 사용을 지원하고, 원자재 간 아비트라지 매매에 필요한 **비동기화(de-synchronization) 시점을 찾기 위해 Dynamic Time Warping (DTW)**'을 활용.
 
 ### 사용 기술
 - **Forecasting Models**: 시계열 예측 모델 (SARIMAX, XGBoost)
